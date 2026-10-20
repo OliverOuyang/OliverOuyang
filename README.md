@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/header.jpg" alt="Cypher. · Oliver · UC Berkeley · Decoding how good work gets seen." width="100%"></p>
+
 # 你好，我是 Oliver · Cypher.
 
 > Decoding how good work gets seen.
