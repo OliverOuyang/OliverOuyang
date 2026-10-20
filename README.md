@@ -14,13 +14,13 @@ UC Berkeley 在读。我做猫猫小游戏、羽毛球选拍网站和 AI 工作�
 npx skills add OliverOuyang/Marketing-Mind
 ```
 
-<p align="center"><img src="assets/mm-c1.png" alt="使用场景：一句话需求自动切换写作、运营、视频、拆解、机会评估、导师模式" width="100%"></p>
+<p align="center"><img src="assets/mm-c1.png" alt="使用场景：一句话需求自动切换写作、运营、视频、拆解、机会评估、导师 6 种模式，还能套用案例镜头" width="100%"></p>
 
 <p align="center"><img src="assets/mm-c2.png" alt="案例：Sac 小王子 370 万浏览、BaiFu × Auday 210 万浏览" width="100%"></p>
 
 <p align="center"><img src="assets/mm-c3.png" alt="示范稿：一句需求生成中英发布帖" width="100%"></p>
 
-👉 [去仓库看看](https://github.com/OliverOuyang/Marketing-Mind)
+[去仓库看看 →](https://github.com/OliverOuyang/Marketing-Mind)
 
 ### 猫猫小游戏合集
 
