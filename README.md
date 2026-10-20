@@ -2,13 +2,17 @@
 
 > Decoding how good work gets seen.
 
-UC Berkeley 在读。我做猫猫小游戏、做 AI 工作流，也经营一家宠物用品独立站。做出来的东西一直很难让人看到，所以我开始把营销当成一门课来系统地学，并且把学的过程全部公开。
+UC Berkeley 在读。我做猫猫小游戏、羽毛球选拍网站和 AI 工作流，也经营一家宠物用品独立站。做出来的东西一直很难让人看到，所以我开始把营销当成一门课来系统地学，并且把学的过程全部公开。
 
 ## 正在做
 
 **猫猫小游戏合集**：目标是一个月做成一个合集，正在小红书日更开发过程（[第 2 天的笔记](https://www.xiaohongshu.com/discovery/item/6acda7c00000000018015125)）。现在有两款：猫咪塔罗占卜的卡牌游戏，和收集猫咪、按关卡分拣的解谜游戏。
 
 <p align="center"><img src="assets/cat-games-banner.jpg" alt="两款猫猫小游戏截图：塔罗占卜卡牌和猫咪分拣关卡" width="100%"></p>
+
+**一握 YIWO**：羽毛球选拍、选鞋、选球指南，7 道题测出适合你的球拍，看参数、价格和球友口碑。[yiwo.oouyang.com](https://yiwo.oouyang.com)
+
+<p align="center"><img src="assets/yiwo-banner.jpg" alt="一握 YIWO 网站截图：电脑版首页和手机版首页" width="100%"></p>
 
 | 项目 | 是什么 |
 |---|---|
